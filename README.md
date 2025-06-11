@@ -1,3 +1,5 @@
+# Caesar Cipher
+
 🔐 Caesar Cipher Encryption & Decryption Tool
 This project implements the classic Caesar Cipher encryption technique in Python. It allows users to encrypt and decrypt messages by shifting characters based on a given key, preserving the simplicity and essence of one of the oldest known encryption methods.
 
