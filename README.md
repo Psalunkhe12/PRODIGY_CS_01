@@ -24,7 +24,7 @@ No external libraries required (fully built using Python standard library)
 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/caesar-cipher-prodigy.git
+git clone https://github.com/Psalunkhe07/caesar-cipher-prodigy.git
 cd caesar-cipher-prodigy
 
 Run the script:
