@@ -1,40 +1,74 @@
 # Caesar Cipher
 
-🔐 Caesar Cipher Encryption & Decryption Tool
-This project implements the classic Caesar Cipher encryption technique in Python. It allows users to encrypt and decrypt messages by shifting characters based on a given key, preserving the simplicity and essence of one of the oldest known encryption methods.
+🔐 Caesar Cipher – Text Encryption & Decryption (Prodigy Internship)
+This project is built as part of the Prodigy Infotech program to demonstrate a basic cryptographic technique—Caesar Cipher—using Python. It allows users to encrypt and decrypt text by shifting letters using a custom key (shift value).
 
 
 🧠 What is a Caesar Cipher?
-The Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a fixed number of places down or up the alphabet. It's a simple yet foundational cryptographic method often used to introduce encryption concepts.
+The Caesar Cipher is one of the oldest and simplest encryption techniques, where each letter in the plaintext is shifted a certain number of places down the alphabet. It's a great starting point to understand how encryption works.
 
 
-🚀 Features
-Encrypt any text using a custom shift key
-Decrypt ciphered text back into readable form
+✨ Features
+Encrypt messages using a shift key
+Decrypt messages back to their original form
 Supports both uppercase and lowercase letters
-Ignores and preserves non-alphabetic characters (e.g., punctuation, numbers, etc.)
-Easy to modify and integrate into other Python-based projects
+Ignores and preserves non-alphabetic characters (like spaces, numbers, punctuation)
+Clean, user-friendly command-line interface
 
 
-🛠️ Technologies Used
-Python (Standard Library only)
+🛠️ Tech Stack
+Python 3
+No external libraries required (fully built using Python standard library)
 
 
-📁 How to Use
-# Clone the repo
-git clone https://github.com/Psalunkhe07/caesar-cipher.git
+🚀 How to Run
+Clone the repository:
 
-# Run the script
+git clone https://github.com/your-username/caesar-cipher-prodigy.git
+cd caesar-cipher-prodigy
+
+Run the script:
+
 python caesar_cipher.py
 
+Follow the prompts to enter:
 
-🎯 Example
-Plain Text:  Hello, World!
-Shift Key:   3
-Encrypted:   Khoor, Zruog!
+The message
+
+The shift value
+
+Choose whether to encrypt or decrypt
+
+
+💡 Example
+
+Enter your message: Hello, World!
+
+Enter shift value: 3
+
+Encrypted message: Khoor, Zruog!
 
 
 📚 Applications
-Educational purposes (learn basic cryptography)
-Introductory security tools
-Part of larger cryptography projects
+Introduction to cryptography
+Learning string manipulation in Python
+Demonstrating basic cybersecurity concepts
+
+
+📌 Project Status
+✅ Completed basic functionality
+🔜 Can be enhanced with:
+
+Brute-force decryption
+GUI interface with Tkinter
+File-based encryption
+
+
+👩‍💻 Author
+Priyanka Salunkhe
+🌐 GitHub
+🎓 Prodigy Infotech Intern
+
+
+📄 License
+This project is open-source under the MIT License.
