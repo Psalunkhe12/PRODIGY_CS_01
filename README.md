@@ -4,8 +4,10 @@
 This project is built as part of the Prodigy Infotech program to demonstrate a basic cryptographic technique—Caesar Cipher—using Python. It allows users to encrypt and decrypt text by shifting letters using a custom key (shift value).
 
 
+
 🧠 What is a Caesar Cipher?
 The Caesar Cipher is one of the oldest and simplest encryption techniques, where each letter in the plaintext is shifted a certain number of places down the alphabet. It's a great starting point to understand how encryption works.
+
 
 
 ✨ Features
@@ -16,9 +18,11 @@ Ignores and preserves non-alphabetic characters (like spaces, numbers, punctuati
 Clean, user-friendly command-line interface
 
 
+
 🛠️ Tech Stack
 Python 3
 No external libraries required (fully built using Python standard library)
+
 
 
 🚀 How to Run
@@ -40,6 +44,7 @@ The shift value
 Choose whether to encrypt or decrypt
 
 
+
 💡 Example
 
 Enter your message: Hello, World!
@@ -49,10 +54,12 @@ Enter shift value: 3
 Encrypted message: Khoor, Zruog!
 
 
+
 📚 Applications
 Introduction to cryptography
 Learning string manipulation in Python
 Demonstrating basic cybersecurity concepts
+
 
 
 📌 Project Status
@@ -62,6 +69,7 @@ Demonstrating basic cybersecurity concepts
 Brute-force decryption
 GUI interface with Tkinter
 File-based encryption
+
 
 
 👩‍💻 Author
